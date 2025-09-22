@@ -6,6 +6,7 @@ public class Lab005_javaCommentsMultiline {
       Author: Saurabh Kuamr
       Cource: ATB14x
       Purpose: This is for the documentation
-       */
+      */
+        System.out.println("Hello World");
     }
 }
